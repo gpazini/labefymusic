@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center">
+  🎼🎵 LabefyMusic 🎧📳
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86967864/149826747-97debd4b-5617-497c-a9be-9c3f81e03de2.png" width=70% >
+</p>
 
-## Available Scripts
+## 💻 About
+Projeto de uma plataforma de stream de musicas , com a possibilidade do usuário criar playlist, e adicionar musicas.
 
-In the project directory, you can run:
+## 🔗 Link Surge
++ <a target="_blank" href="https://opposite-bat.surge.sh/">LabefyMusic</a>
 
-### `npm start`
+## 💡 Functionalities
+- [x] Criação de playlist
+- [x] Adicionar músicas
+- [x] Editar músicas e playlists
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✒ To Do
+- [ ] Integração com API do Spotify
+- [ ] Fotos das Musicas e playlists
+- [ ] pagina de usuario e cadastro
 
-### `npm test`
+## 🛠 Tech
+As seguintes ferramentas foram utilizadas na construção do projetos:
++ <a target="_blank" href="https://reactrouter.com/web/guides/quick-start">React Router</a>
++ <a target="_blank" href="https://reactjs.org/">ReactJS</a>
++ <a target="_blank" href="https://pt-br.reactjs.org/docs/hooks-intro.html">Hooks</a>
++ <a target="_blank" href="https://documenter.getpostman.com/view/9133542/TzCTZkQr#intro">LabeX API </a>
++ <a target="_blank" href="https://styled-components.com/">Styled-Components</a>
++ <a target="_blank" href="https://axios-http.com/docs/intro">Axios</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📥 Install 
+Faça um clone desse repositório e acesse o diretório.
+```
+$ git clone https://github.com/gpazini/labefymusic.git
+```
+```
+# Instalando as dependências
+$ npm install styled-components
+$ npm install axios
+$ npm install react-router-dom@5.3
+```
+```
+# Executanto aplicação
+$ npm run start
 
-### `npm run build`
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📷 Project images - 💻 Version Web / 📱 Mobile
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86967864/149827183-7d8fee63-0e73-4d88-b6c2-3f192c461169.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/86967864/149827253-5ecae2e5-ac95-4e9a-ae88-477dc73a6c30.png" width="200"  >
+  <img src="https://user-images.githubusercontent.com/86967864/149827289-9cc5eca4-56f7-4882-ab2a-c7edc8950df5.png" width="200"  >
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📝 License
+```
+Copyright [2021] [Guilherme Pazini]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🦸 Executor
+Guilherme Pazini  • <a href="https://www.linkedin.com/in/guilhermepazini/">Linkedin</a>
